@@ -112,9 +112,9 @@ Found something awesome to add? 🧐 Submit a pull request!
 ---
 
 ## ⭐ Follow for More  
-Portfolio link: https://abhijit-zende.vercel.app/
-Blog link: https://abhijitzende.hashnode.dev/
-Stay tuned for updates, and don’t forget to star ⭐ the repo if you found it helpful!  
+- Portfolio link: https://abhijit-zende.vercel.app/
+- Blog link: https://abhijitzende.hashnode.dev/
+- Stay tuned for updates, and don’t forget to star ⭐ the repo if you found it helpful!  
 
 ---
 

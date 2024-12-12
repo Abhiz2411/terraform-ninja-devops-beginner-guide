@@ -4,6 +4,8 @@
 Welcome to the **Terraform Knowledge Hub**! 🌟  
 Explore beginner-friendly notes, frequently used Terraform code snippets, and best practices followed in the industry. 🚀  
 
+![Terraform use case diagram](terraform-architecture-diagram.png)
+
 ---
 
 ## 📖 Terraform Notes  
